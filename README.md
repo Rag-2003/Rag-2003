@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="Krish3914" /> </p>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="Rag-2003" /> </p>
 <p>
     <h1 align="center"> Hi 👋, I'm Raghav Bidsar </h1>
 <p align="center"> 
@@ -19,7 +19,7 @@ Call me = "Raghav Bidsar" 🤗
 
 <h3 align="left">🔌 CONNECT:</h3>
 
-<h4 align="left">📫 How to reach me: <a href="mailto:krishagrawal3914@gmail.com">krishagrawal3914@gmail.com</a></h4>
+<h4 align="left">📫 How to reach me: <a href="mailto:bidsaraghav18@gmail.com">bidsarraghav18@gmail.com</a></h4>
 
 [![telegram badge](https://img.shields.io/badge/Portfolio-617D61?style=for-the-badge&logo=portfolio)](https://krishfolio.vercel.app/)
 [![linkedin badge](https://img.shields.io/badge/linkedIn-0A63BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishagrawal-softwaredevelopment/)
@@ -110,7 +110,7 @@ Call me = "Raghav Bidsar" 🤗
 <a href="https://git-scm.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
 </a>&nbsp;&nbsp;
-<a href="https://github.com/Krish3914">
+<a href="https://github.com/Rag-2003">
  <img src="https://img.shields.io/badge/github-3776AB?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>&nbsp;&nbsp;
 <br>
