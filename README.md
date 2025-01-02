@@ -14,25 +14,21 @@ Call me = "Raghav Bidsar" 🤗
 - 🌌 Proficiently Skilled in - MERN Stack.
 -💬 Currently seeking opportunities that challenge my abilities and allow me to contribute to innovative projects.
 -👀 Let's connect and explore how I can bring value to your team!.
--⚡ Fun fact: I love to travel a lot but solo traveling sounds a little boring.
+-⚡ Fun fact: I love to travel and lifting the weights.
 
 
 <h3 align="left">🔌 CONNECT:</h3>
 
 <h4 align="left">📫 How to reach me: <a href="mailto:bidsaraghav18@gmail.com">bidsarraghav18@gmail.com</a></h4>
 
-[![telegram badge](https://img.shields.io/badge/Portfolio-617D61?style=for-the-badge&logo=portfolio)](https://krishfolio.vercel.app/)
-[![linkedin badge](https://img.shields.io/badge/linkedIn-0A63BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishagrawal-softwaredevelopment/)
-[![Twitter badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/Krish3914)
-[![Twitter badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x)](https://twitter.com/KrisH__AgrawaL)
-[![Instagram badge](https://img.shields.io/badge/Instagram-4f3039?style=for-the-badge&logo=instagram)](https://www.instagram.com/krish01agrawal/)
+[![linkedin badge](https://img.shields.io/badge/linkedIn-0A63BC?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raghav-bidsar-540456229/)
+[![Twitter badge](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github)](https://github.com/Rag-2003/)
 <br/>
 
 <h3 align="left">🪄 Coding-Profile:</h3>
 
-[![Twitter badge](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/KrisH_21/)
-[![Twitter badge](https://img.shields.io/badge/Codechef-9A8B7F?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/krish_3914)
-[![Twitter badge](https://img.shields.io/badge/Codeforces-590505?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/krish_3914)
+[![Twitter badge](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode)](https://leetcode.com/raghav-11)
+[![Twitter badge](https://img.shields.io/badge/Codechef-9A8B7F?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/raghav4011)
 
 
 <h3 align="left">⚙ My Tech Stack:</h3>
@@ -117,13 +113,13 @@ Call me = "Raghav Bidsar" 🤗
 <br>
 <br>
 
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Krish3914&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krish3914&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krish3914&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krish3914&theme=github_dark)
-[![Krish Agrawal's stats](https://github-readme-stats.vercel.app/api?username=Krish3914&show_icons=true&theme=github_dark)](https://github.com/Krish3914)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish3914&layout=compact&langs_count=5&theme=github_dark&hide_border=true&count-private=true)](https://github.com/Krish3914)
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Rag-2003&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rag-2003&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rag-2003&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rag-2003&theme=github_dark)
+[![Krish Agrawal's stats](https://github-readme-stats.vercel.app/api?username=Rag-2003&show_icons=true&theme=github_dark)](https://github.com/Krish3914)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rag-2003&layout=compact&langs_count=5&theme=github_dark&hide_border=true&count-private=true)](https://github.com/Rag-2003)
 
 
 <h2>🏆My Github Profile Trophy</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1000 src="https://github-profile-trophy.vercel.app/?username=Krish3914&column=9&no-frame=true" alt="Krish3914" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1000 src="https://github-profile-trophy.vercel.app/?username=Rag-2003&column=9&no-frame=true" alt="Rag-2003" /></a> </p>
