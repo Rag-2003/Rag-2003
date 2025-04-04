@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="Rag-2003" /> </p>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Krish3914&label=Profile%20views&color=4c3c78&style=flat" alt="" /> </p>
 <p>
     <h1 align="center"> Hi 👋, I'm Raghav Bidsar </h1>
 <p align="center"> 
